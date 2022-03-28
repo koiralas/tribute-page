@@ -1,0 +1,40 @@
+body {
+  background-color:#E4FFF0;
+  width:75%;
+  margin:auto;
+  
+}
+h1 {
+  text-align: center;
+  color:#084826;
+  font-family: 'Lobster Two', cursive;
+}
+img{
+  float:left;
+  margin-right:20px;
+  height:250px;
+}
+div {
+  text-align: center;
+  width:65%;
+  margin:auto;
+}
+li {
+  font-size:20; 
+  text-align:justify;
+  font-weight:bold;
+  font-family: 'Lobster Two', cursive;
+  color:#084826;
+  font-style: italic;
+}
+h2{
+  color:#084826;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+}
+p {
+  text-align: justify;
+  font-weight:normal;
+  color:#03813E;
+  font-family: 'Lobster Two', cursive;
+}
